@@ -1,0 +1,2 @@
+model_checkpoint_path: "my_capsule_based_segmentation_with_weighted_loss"
+all_model_checkpoint_paths: "my_capsule_based_segmentation_with_weighted_loss"
