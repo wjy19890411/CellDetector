@@ -1,0 +1,7 @@
+IMG_WIDTH = 128
+IMG_HEIGHT = 128
+IMG_CHANNEL = 3
+TRAIN_PATH = 'data/train'
+TEST_PATH = 'data/test'
+
+DEBUG_MODE = True
